@@ -1481,6 +1481,16 @@ body.menu-open {
         width: 50px;
         height: 50px;
     }
+    .experience-badge {
+        position: static;
+        transform: none;
+        margin: 1.5rem auto 0;
+        display: inline-block;
+    }
+    
+    .about-image-wrapper {
+        text-align: center;
+    }
 }
 
 /* ----- Animations ----- */
